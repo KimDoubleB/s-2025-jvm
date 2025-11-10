@@ -24,8 +24,8 @@
 | [1주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week1) | 2장 | | dkswnkk, VSFe, KimDoubleB, JopopScript, JEONG-BD |
 | [2주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week2) | 3장 - 1 (3.1 ~ 3.4) | | dkswnkk, KimDoubleB, JopopScript |
 | [3주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week3) | 3장 - 2 (3.5 ~ 3.9) | | dkswnkk, VSFe, KimDoubleB, JopopScript |
-| [4주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week4) | 5장 | 실습 | |
-| [5주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week5) | 6장 | 스터디 중간 회고 | |
+| [4주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week4) | 5장 | 실습 | dkswnkk, VSFe, KimDoubleB, JopopScript |
+| [5주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week5) | 6장 | 스터디 중간 회고 / 오프라인 | |
 | [6주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week6) | 7장 | | |
 | [7주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week7) | 8장 | | |
 | [8주차](https://github.com/KimDoubleB/s-2025-jvm/tree/main/week8) | 10장 | 스터디 회고 | |
